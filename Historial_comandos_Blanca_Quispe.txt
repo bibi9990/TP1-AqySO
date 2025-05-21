@@ -1,0 +1,152 @@
+pwd
+ssh-keygen
+pwd
+ls -la
+cd .ssh/
+ls -la
+cat id_rsa.pub
+cd
+pwd
+sudo apt install git
+git --version
+git clone git@github.com:bibi9990/TP1-AqySO.git
+cd README TP1-AqySO/
+cp README TP1-AqySO/
+ls -la
+cp README miercoles4/
+cp README TP1-AqySO/
+cd TP1-AqySO
+ls -la
+git status
+git add README
+git status
+git commit -m "Primer archivo"
+git push origin main
+git config --global user.email "blanca.quispe.utn@gmail.com"
+git config --global user.name "Blanca Quispe"
+git commit -m "Primer archivo"
+git push origin main
+git push -u origin main
+cd
+pwd
+cd repogit
+git clone git@github.com:bibi9990/TP1-AqySO.git
+cd TP1-AqySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release
+grep -i "HOME_URL" /etc/os-release
+grep -i Home_url /etc/os-release 
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -l
+whoami
+echo "usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "blanca.quispe.utn@gmail.com"
+git config --global user.name
+"Blanca Quispe"
+git config --global user.email "blanca.quispe.utn@gmail.com"
+git config --global user.name
+"bibi9990"
+git config --global user.email "blanca.quispe.utn@gmail.com"
+git config --global user.name
+"Blanca Quispe"
+git config --global user.name "vagrant"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+/proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1
+echo "Modelo CPU: $(grep "model name" /proc/cpuinfo | head -n1) >> datos_usuario.txt
+cd
+grep "model name" /proc/cpuinfo | head -n1
+echo "Modelo CPU: $(grep "model name" /proc/cpuinfo | head -n1)" >>datos_usuario.txvagrant halt
+vagrant halt
+exit
+cd[200~grep "model name" /proc/cpuinfo | head -n1~; "eeeeeeeeeeeeeeeeeeeeeeeeeeeeocooooooooooeadeeeeeeeaadaaa1111111111111111111111111111
+1111
+nhhh::::::        $$$$((((((((((gggregggggg""""""""""""""mopupunfonfonnnnnnnnnnnnnnffonnn)))))))))))))>>>>>>>>tt
+[A-1>>>> ..................txxt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.namevagravagaalllll
+tt
+
+cd
+cd repogit/
+ls -la
+cd TP1-AqySO/
+grep "model name" /proc/cpuinfo | head -n1
+echo "Modelo CPU: $(grep "model name" /proc/cpuinfo | head -n1)" >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: añadiendo informacion de CPU"
+git push origin main
+cat << EOF >> README.md
+Alumno: <Blanca Quipe>
+Division: <116>
+Turno: <mañana>
+EOF
+
+cat README.md
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push origin main 
+cd $HOME
+pwd
+mkdir -p Punto_7/{material1, material2}/uni{1..3}
+tree Punto_7
+tree Punto_7/
+sudo apt install tree
+tree Punto_7/
+sudo snap install tree
+tree Punto_7/
+tree Punto_7
+mkdir -p material1/uni{1..3} material2/uni{1..3}
+tree material1 material2
+vim script_dir.sh
+chmod +x script_dir.sh
+git add .
+git add script_dir.sh
+ls
+.git
+cd repogit
+cd TP1-AqySO/
+ls
+git add script_dir.sh
+ls -la git
+ls -la
+ls -la .git/
+git add script_dir.sh
+nano script_dir.sh
+vim script_dir.sh
+history
+history | uniq -c
+echo 'mkdir -p material1/uni{1..3} material2/uni{1..3}' > script_dir.sh
+chmod +d script_dir.sh
+chmod +x script_dir.sh
+git commit -m "ADD: Añadiendo script"
+git status
+git add datos_usuario.txvagrant script_dir.sh
+git add .
+git commint -m "ADD:Añadiendo script"
+git commit -m "ADD:Añadiendo script"
+git push origin main
+history -a
+cp ~/.bash_history ./Historial_comandos_<Quispe>.txt
+cp ~/.bash_history ./Historial_comandos_<Blanca Quispe>.txt
+cp ~/.bash_history ./Historial_comandos_<Blanca-Quispe>.txt
